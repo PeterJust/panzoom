@@ -21,9 +21,9 @@ The "home" button resetting the figure does not work properly any more after Pan
 
 
 
-Python and Matlab seem to share clumsy plot interaction. The python class is a port of my original panzoom.m matlab function:
+
 # panzoom.m
-The awesome original from my graphical data segmentation software (Auswertung2) only documented in German.
+Python and Matlab seem to share clumsy plot interaction. The python class is a port of my original panzoom.m matlab function. This file is the awesome original from my graphical data segmentation software (Auswertung2) only documented in German.
 To use this in Matlab, place panzoom.m in the same folder as your script (or use addpath).
 Then in your script go for:
 
