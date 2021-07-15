@@ -16,6 +16,9 @@ Intuitively pan and zoom a plot using drag-n-drop and the mouse-wheel in python 
     panzoomer = Panzoom(fig1)
     print("drag-n-drop panning and mouswheel zooming awesomeness. Now: at your fingertips!")
 
+### Known Bugs:
+The "home" button resetting the figure does not work properly any more after Panzoom has been applied.
+
 
 
 Python and Matlab seem to share clumsy plot interaction. The python class is a port of my original panzoom.m matlab function:
